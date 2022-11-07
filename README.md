@@ -6,7 +6,7 @@
 
  This project has a tool that will verify whether a inputted word is a palindrome or not!
  
- This tool is case-sensitive as well.
+ This tool is case-sensitive as well and users can view palindrome results after and delete each respective palindrome result
  
  Word and palindrome result are both sent to MongoDb database.
 
