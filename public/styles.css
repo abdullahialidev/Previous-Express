@@ -1,0 +1,29 @@
+
+body {
+    background-image: url("palindromebackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #cccccc;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+
+body {
+    color: #ffffff;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+body {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
