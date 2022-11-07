@@ -14,7 +14,13 @@
 Languages used were JavaScript, Express.js, Node.js, CSS, and HTML. 
  
  
- 
+ ## Installation
+
+1. Clone repo
+2. run `npm install`
+
+
+
  To start server, npm start
  
  The server is connected to port 3500
