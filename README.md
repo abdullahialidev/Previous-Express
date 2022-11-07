@@ -11,7 +11,8 @@
  Word and palindrome result are both sent to MongoDb database.
 
 
-Languages used were JavaScript, Express.js, Node.js, CSS, and HTML. 
+Languages used were JavaScript, Node.js, CSS, and HTML. 
+Express.js was used as a template handler
  
  
  ## Installation
