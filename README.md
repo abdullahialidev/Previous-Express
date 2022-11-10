@@ -6,11 +6,11 @@
 
  This project has a tool that will verify whether a inputted word is a palindrome or not!
  
- This tool is case-sensitive as well and users can view palindrome results after and delete each respective palindrome result
+ This tool is not case-sensitive as well, working equally as well with both lowercase and uppercase characters. In addition to this, users can view palindrome results after and delete each respective palindrome result as well!
  
- Word and palindrome result are both sent to MongoDb database.
-
-
+ 
+ 
+Word and palindrome result are both sent to MongoDb database.
 Languages used were JavaScript, Node.js, CSS, and HTML. 
 Express.js was used as a template handler
  
